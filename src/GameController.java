@@ -1,5 +1,3 @@
-package JAVA.Projects.AliensHumans;
-
 import java.util.Scanner;
 
 public class GameController {
