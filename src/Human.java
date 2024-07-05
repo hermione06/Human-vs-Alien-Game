@@ -1,5 +1,3 @@
-package JAVA.Projects.AliensHumans;
-
 public class Human {
     int healthPoints;
     Skill skill;
