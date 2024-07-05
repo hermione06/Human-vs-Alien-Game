@@ -11,14 +11,18 @@ In this game, you play as a human fighting against an alien. The game is turn-ba
 **Features**
 ------------
 
-* Turn-based gameplay
-  
- ![turn1](https://github.com/hermione06/Human-vs-Alien-Game/assets/143590519/eeb764da-1ecc-4cc6-94c8-f033815ee3db) ![turn2](https://github.com/hermione06/Human-vs-Alien-Game/assets/143590519/d7c7cab8-c1f6-4aed-bfa1-5d6a2e361e9e)
-  
+* Turn-based gameplay    
 * Human and Alien characters with weapons and skills
-
 * Damage and defense points system
 * Win/loss conditions
+
+***Screenshots of outputs**
+---------------------------
+![3](https://github.com/hermione06/Human-vs-Alien-Game/assets/143590519/eb9e5309-1e18-4352-8ce8-b000e2bac3e3)
+![2](https://github.com/hermione06/Human-vs-Alien-Game/assets/143590519/ba54ef83-344a-4a69-958a-92ea23ab6c14)
+![1](https://github.com/hermione06/Human-vs-Alien-Game/assets/143590519/57fdb325-5eb8-4dd8-a622-1779b2f48e70)
+
+  
 
 **How to Play**
 --------------
