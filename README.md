@@ -22,25 +22,28 @@ In this game, you play as a human fighting against an alien. The game is turn-ba
 1. Start the game by running the `GameController` class.
 2. Make your choices by selecting a weapon and skill for your human character.
 3. The alien will make its own choices, and the game will resolve the turn.
-4. Repeat steps 2-3 until the game is won or lost.
+4. These steps are repeated until the game is won or lost.
 
 **Technical Details**
 --------------------
 
 * Programming language: Java
-* Development environment: Eclipse
 
 **License and Copyright**
 ------------------------
 
-This project is licensed under the MIT License. Copyright 2023 [Your Name].
+This project is licensed under the MIT License. Copyright 2024 Asiman Ismayilova.
 
 **Contributing**
 --------------
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-**Known Issues**
+**Improvements can be done**
 ----------------
 
-* None currently known. If you encounter any issues, please report them in the issues section.
+* More complex features can be add:
+* Multiple types of weapons and skills with different effects.
+* A more complex damage calculation system that takes into account the type of weapon and skill used.
+* A system for leveling up and upgrading the human and alien's abilities.
+* A system for using items or abilities that can affect the game state..
