@@ -12,6 +12,8 @@ In this game, you play as a human fighting against an alien. The game is turn-ba
 ------------
 
 * Turn-based gameplay
+* ![turn1](https://github.com/hermione06/Human-vs-Alien-Game/assets/143590519/eeb764da-1ecc-4cc6-94c8-f033815ee3db)
+
   
 * Human and Alien characters with weapons and skills
 * Damage and defense points system
