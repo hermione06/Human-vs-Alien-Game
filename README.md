@@ -43,7 +43,7 @@ If you'd like to contribute to this project, please fork the repository and subm
 **Improvements can be done**
 ----------------
 
-* More complex features can be add:
+* More complex features can be added:
 * Multiple types of weapons and skills with different effects.
 * A more complex damage calculation system that takes into account the type of weapon and skill used.
 * A system for leveling up and upgrading the human and alien's abilities.
