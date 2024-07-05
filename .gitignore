@@ -22,3 +22,18 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+
+# IDE settings and metadata
+.idea/
+.project
+.settings/
+nbproject/
+
+# Build directories and files
+target/
+build/
+
+# Generated files
+logs/
+tmp/
