@@ -1,5 +1,3 @@
-package JAVA.Projects.AliensHumans;
-
 public class GameDisplay {
     public void displayGameStart(){
         System.out.println("Welcome to Human VS Alien Game!");
