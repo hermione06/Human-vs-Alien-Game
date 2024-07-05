@@ -1,7 +1,7 @@
 **Aliens vs Humans Game**
 ==========================
 
-A turn-based game where humans and aliens battle it out!
+A simple turn-based game where humans and aliens battle it out!
 
 **Game Overview**
 ---------------
