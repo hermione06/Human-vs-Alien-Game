@@ -1,5 +1,3 @@
-package JAVA.Projects.AliensHumans;
-
 public class Weapon {
     String name;
     String description;
