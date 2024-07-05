@@ -34,6 +34,7 @@ In this game, you play as a human fighting against an alien. The game is turn-ba
 --------------------
 
 * Programming language: Java
+* Object-Oriented Programming (OOP) principles
 
 **License and Copyright**
 ------------------------
