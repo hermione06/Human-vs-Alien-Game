@@ -25,7 +25,7 @@ In this game, you play as a human fighting against an alien. The game is turn-ba
 **How to Play**
 --------------
 
-1. Start the game by running the `GameController` class.
+1. Start the game by running the `Game` class.
 2. Make your choices by selecting a weapon and skill for your human character.
 3. The alien will make its own choices, and the game will resolve the turn.
 4. These steps are repeated until the game is won or lost.
