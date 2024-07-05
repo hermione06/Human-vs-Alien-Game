@@ -12,6 +12,7 @@ In this game, you play as a human fighting against an alien. The game is turn-ba
 ------------
 
 * Turn-based gameplay
+  
 * Human and Alien characters with weapons and skills
 * Damage and defense points system
 * Win/loss conditions
