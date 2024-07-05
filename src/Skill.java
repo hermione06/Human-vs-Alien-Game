@@ -1,5 +1,3 @@
-package JAVA.Projects.AliensHumans;
-
 public class Skill {
     String name;
     String description;
