@@ -40,6 +40,7 @@ In this game, you play as a human fighting against an alien. The game is turn-ba
 ------------------------
 
 This project is licensed under the MIT License. Copyright 2024 Asiman Ismayilova.
+This project is a personal learning experience to apply my Java knowledge. It is not intended for production use.
 
 **Contributing**
 --------------
